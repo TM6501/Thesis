@@ -1,0 +1,3 @@
+After the initial data collection, the experimentResults.csv file in this directory was modified.
+Additional experiments were run. The results were appended to this file to make reading in and sorting of data
+by Excel simpler.
